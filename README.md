@@ -201,6 +201,12 @@ Highlights specialty-wise patient waitlists, helping identify departments with t
 ## 🚀 Business Value
 This dashboard helps healthcare administrators monitor patient demand, identify high-pressure specialties, evaluate waiting trends, and support resource planning through interactive business intelligence.
 
+## 📥 Download Power BI File
+
+You can download the Power BI project here:
+
+➡️ [Healthcare Patient Waitlist Dashboard (.pbix)](HL_Project.pbix)
+
 ## 👨‍💻 Author
 Vikash Basfore
 
