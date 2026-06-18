@@ -25,11 +25,46 @@ This dashboard helps answer questions such as:
 
 # 📊 Dashboard Pages
 
-## 1️⃣ Executive Summary Dashboard
-
 <h2>1️⃣ Executive Summary Dashboard</h2>
 
 <p align="center">
     <img src="Dashboard Image.png" width="1000">
 </p>
+
+### Description:
+Provides a high-level overview of patient waitlist performance using KPIs, trend analysis, specialty distribution, and age profile segmentation.
+
+#### Main KPIs
+    Current Wait List
+    Previous Year Wait List
+    Average Wait List
+    Median Wait List
+    Monthly Trends
+    Age Profile
+    Specialty Ranking
+
+<h2>2️⃣ Detailed View</h2>
+
+<p align="center">
+    <img src="Detail view.png" width="1000">
+</p>
+
+### Description:
+Provides granular analysis of patient waitlists with dynamic filtering across specialty, age group, time band, and case type.
+
+#### Includes
+    Dynamic Table
+    Drill-through
+    Detailed Metrics
+    Interactive Filtering
+
+
+<h2>3️⃣ Specialty Analysis(Drill Down)</h2>
+
+<p align="center">
+    <img src="DrillDown.png" width="700">
+</p>
+
+#### Description:
+    Provides specialty-wise comparison of patient waiting lists to identify departments with the highest patient demand.
 
