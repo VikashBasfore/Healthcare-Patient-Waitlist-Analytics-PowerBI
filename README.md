@@ -182,6 +182,7 @@ Provides an overview of patient waitlists with KPIs, trends, specialty analysis,
 
 Enables detailed exploration of patient waitlists with drill-through capabilities, filters, and tabular analysis.
 
+
 <p align="center">
   <img src="dashboard-detail.png" width="1000">
 </p>
@@ -195,6 +196,7 @@ Highlights specialty-wise patient waitlists, helping identify departments with t
 <p align="center">
   <img src="dashboard-drilldown.png" width="700">
 </p>
+
 
 ## 🚀 Business Value
 This dashboard helps healthcare administrators monitor patient demand, identify high-pressure specialties, evaluate waiting trends, and support resource planning through interactive business intelligence.
