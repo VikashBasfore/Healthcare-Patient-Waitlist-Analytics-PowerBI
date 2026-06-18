@@ -173,7 +173,7 @@ Time Intelligence
 Provides an overview of patient waitlists with KPIs, trends, specialty analysis, age profile segmentation, and interactive filters.
 
 <p align="center">
-  <img src="dashboard-summary.png" width="1000">
+  <img src="./Dashboard Image.png" width="1000">
 </p>
 
 ---
@@ -184,7 +184,7 @@ Enables detailed exploration of patient waitlists with drill-through capabilitie
 
 
 <p align="center">
-  <img src="dashboard-detail.png" width="1000">
+  <img src="./Detail view.png" width="1000">
 </p>
 
 ---
@@ -194,7 +194,7 @@ Enables detailed exploration of patient waitlists with drill-through capabilitie
 Highlights specialty-wise patient waitlists, helping identify departments with the highest patient demand.
 
 <p align="center">
-  <img src="dashboard-drilldown.png" width="700">
+  <img src="./DrillDown.png" width="700">
 </p>
 
 
