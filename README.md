@@ -27,5 +27,9 @@ This dashboard helps answer questions such as:
 
 ## 1️⃣ Executive Summary Dashboard
 
-![Executive Summary](Dashboard Image.png)
+<h2>1️⃣ Executive Summary Dashboard</h2>
+
+<p align="center">
+    <img src="Dashboard Image.png" width="1000">
+</p>
 
